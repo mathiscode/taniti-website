@@ -1,0 +1,25 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.video {
+  margin: auto;
+  max-width: 75%;
+  max-height: 350px;
+  border-radius: 7px;
+}
+
+.aboutText {
+  max-width: 70ch;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+.exploreButtons {
+  margin: auto;
+  margin-top: 2rem;
+  display: flex;
+  gap: 1rem;
+}

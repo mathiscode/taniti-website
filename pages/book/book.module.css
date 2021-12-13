@@ -1,0 +1,29 @@
+.book {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 3rem;
+}
+
+.bookText {
+  max-width: 80ch;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 4rem;
+}
+
+.bookText p {
+  font-size: 2rem;
+}
+
+.bookButton {
+  margin-top: 2rem;
+  transform: scale(1.5);
+}
+
+.exploreButtons {
+  margin: auto;
+  margin-top: 2rem;
+  display: flex;
+  gap: 1rem;
+}
