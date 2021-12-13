@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.site-title {
+  color: #5f92c9;
+  font-size: 1.5em;
+  font-weight: 800;
+  letter-spacing: 3px;
+  font-variant: small-caps;
+  text-shadow: 2px 2px 0px #abbbcc;
+}

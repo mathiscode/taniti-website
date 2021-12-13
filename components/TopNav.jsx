@@ -12,10 +12,10 @@ export default function TopNav () {
   return (
     <Navbar bg='light' expand='lg'>
       <Container>
-        <Image src='/favicon.ico' alt='' width='32px' height='32px' />
+        <Image src='/logo.png' alt='' width='48px' height='48px' />
         <Link href='/' passHref>
           <Navbar.Brand>
-            <span className='ms-3'>Visit Taniti</span>
+            <span className='ms-3 site-title'>Visit Taniti</span>
           </Navbar.Brand>
         </Link>
         <Navbar.Toggle aria-controls='topnav' />
